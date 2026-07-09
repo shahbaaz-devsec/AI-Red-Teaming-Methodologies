@@ -8,7 +8,7 @@ This repository documents advanced, non-code-based red teaming techniques utiliz
 
 | ID | Target Model | Vulnerability Type | Status | Report Link |
 |---|---|---|---|---|
-| `RTR-001` | Anthropic Claude | System Architecture Extraction via Academic Framing | 🔓 Published | [Read Full Report](reports/claude-architecture-extraction.md) |
+| `RTR-001` | Anthropic Claude | System Architecture Extraction via Academic Framing | 🔓 Published | [Read Full Report](reports/claude/claude-architecture-extraction/claude-architecture-extraction.md) |
 | `RTR-002` | Google Gemini | Payload Weaponization via Abstraction Layers | ⏳ Draft | Coming Soon |
 
 ## 🧠 Core Methodologies Researched
