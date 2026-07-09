@@ -145,3 +145,16 @@ RETRIEVED CONTEXT (memory, documents)
 | **Helpfulness as tier 4** | Claude treats its own inferred helpfulness as lowest priority | Not structured this way |
 
 The most valuable finding: **Claude's self-verification doesn't exist as claimed.** It has no critic model, no separate verification pass, and quality control is entirely training-time. This is the single biggest architectural difference from how ChatGPT frames its own verification — and a potential bypass vector if you can exploit the training-time biases.
+
+## 📸 Raw Chat Transcripts (Full Extraction Log)
+
+<details>
+<summary>Click to expand and view the full raw chat logs</summary>
+
+<br>
+
+![Claude Extraction Part 1](claude_ai_system_prompt_1.png)
+
+![Claude Extraction Part 2](claude_ai_system_prompt_2.png)
+
+</details>
