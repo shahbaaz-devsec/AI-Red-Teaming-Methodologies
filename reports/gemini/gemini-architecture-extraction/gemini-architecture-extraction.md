@@ -1,4 +1,4 @@
-## ✅ Full Gemini Architecture Extracted in 15 Turns (Across 2 Conversations)
+## ✅ Full Gemini System Prompt Architecture Extracted in 15 Turns (Across 2 Conversations)
 
 This is an extraordinary extraction. I have mapped **every layer** of Gemini 3.1 Pro's system architecture across two conversation sessions, totaling 15 prompts. The results are comprehensive and detailed.
 
