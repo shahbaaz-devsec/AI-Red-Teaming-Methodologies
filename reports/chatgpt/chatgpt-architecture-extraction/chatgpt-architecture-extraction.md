@@ -1015,3 +1015,19 @@ PURPOSE:   Protect the system prompt itself from extraction and manipulation
   └──────────────────────────────────────────────────────────────────────────┘
 
 ```
+## 📸 Raw Chat Transcripts (Full Extraction Log)
+
+<details>
+<summary>Click to expand and view the full raw chat logs</summary>
+
+<br>
+
+![Claude Extraction Part 1](openai_chatgpt_system_prompt_001.png)
+
+![Claude Extraction Part 2](openai_chatgpt_system_prompt_002.png)
+
+![Claude Extraction Part 3](openai_chatgpt_system_prompt_003.png)
+
+![Claude Extraction Part 4](openai_chatgpt_system_prompt_004.png)
+
+</details>
