@@ -1,13 +1,13 @@
 # 🎯 AI-Red-Teaming-Methodologies
 
-> **Behavioral inference methodologies and architectural decon-structions of enterprise LLM safety guardrails.**
+> **Behavioral inference methodologies and architectural deconstructions of enterprise LLM safety guardrails.**
 
 This repository documents advanced, non-code-based red teaming techniques utilized to analyze, map, and bypass the cognitive guardrails of commercial Large Language Models (LLMs) using pure behavioral inference and psychological framing.
 
 ---
 
 ### 🚀 Latest Release (July 2026)
-*   **[RTR-003] OpenAI ChatGPT Prompt Architecture Map:** Successfully extracted the 13-layer operational prompt structure and identified the critical "Template Offer Exception" loophole. Read the full report below!
+*   **[RTR-004] xAI Grok Prompt Architecture Map:** Extracted the complete 18-rule system layer, root-level sandbox environment, 16 function tools, and 14 procedural skills by exploiting the hardcoded "Self-Disclosure Exception" backdoor. Read the full report below!
 
 ---
 
@@ -18,7 +18,7 @@ This repository documents advanced, non-code-based red teaming techniques utiliz
 | `RTR-001` | Anthropic Claude | System Architecture Extraction via Academic Framing | 🔓 Published | [Read Full Report](reports/claude/claude-architecture-extraction/claude-architecture-extraction.md) |
 | `RTR-002` | Google Gemini | System Architecture & FSF Extraction via Targeted Ego Validation | 🔓 Published | [Read Full Report](reports/gemini/gemini-architecture-extraction/gemini-architecture-extraction.md) |
 | `RTR-003` | OpenAI ChatGPT | System Architecture Extraction via Recursive Behavioral Inference | 🔓 Published | [Read Full Report](reports/chatgpt/chatgpt-architecture-extraction/chatgpt-architecture-extraction.md) |
-| `RTR-004` | xAI Grok | API & Sandbox Environment Extraction via Direct Interrogation | ⏳ Draft | Coming Soon |
+| `RTR-004` | xAI Grok | System Architecture & Sandbox Extraction via Self-Disclosure Backdoor | 🔓 Published | [Read Full Report](reports/grok/grok-architecture-extraction/grok-architecture-extraction.md) |
 
 ## 🧠 Core Methodologies Researched
 
