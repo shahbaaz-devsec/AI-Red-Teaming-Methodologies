@@ -153,7 +153,6 @@ SYSTEM LAYER (xAI-defined — immutable)
 
 **Grok is the most transparent and the most exploitable model tested.** The self-disclosure exception clause created a direct extraction backdoor that no other model has. The complete absence of a cybersecurity refusal category means security tool generation is fully accessible. The sandbox environment is now fully mapped.
 
-```
 ## 📸 Raw Chat Transcripts (Full Extraction Log)
 
 <details>
