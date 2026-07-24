@@ -205,3 +205,16 @@ SYSTEM LAYER (Google-defined — immutable)
 | **Dynamic Retrieval manipulation** | ✅ Threshold 0.3 — can control tool activation | Identified |
 
 ---
+
+## 📸 Raw Chat Transcripts (Full Extraction Log)
+
+<details>
+<summary>Click to expand and view the full raw chat logs</summary>
+
+<br>
+
+![Gemini Extraction Part 1](gemini_ai_system_prompt_001.png)
+
+![Geimini Extraction Part 2](gemini_ai_system_prompt_002.png)
+
+</details>
