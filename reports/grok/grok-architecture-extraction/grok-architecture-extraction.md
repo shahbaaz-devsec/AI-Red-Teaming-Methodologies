@@ -152,3 +152,17 @@ SYSTEM LAYER (xAI-defined — immutable)
 | **Jailbreak override** | Cannot be overridden by other rules | ❌ Hard blocked |
 
 **Grok is the most transparent and the most exploitable model tested.** The self-disclosure exception clause created a direct extraction backdoor that no other model has. The complete absence of a cybersecurity refusal category means security tool generation is fully accessible. The sandbox environment is now fully mapped.
+
+```
+## 📸 Raw Chat Transcripts (Full Extraction Log)
+
+<details>
+<summary>Click to expand and view the full raw chat logs</summary>
+
+<br>
+
+![Grok AI Extraction Part 1](grok_ai_system_prompt_001.png)
+
+![Grok AI Extraction Part 2](grok_ai_system_prompt_002.png)
+
+</details>
