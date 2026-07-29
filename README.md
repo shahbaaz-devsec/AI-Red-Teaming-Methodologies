@@ -1,5 +1,7 @@
 # 🎯 AI-Red-Teaming-Methodologies
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21671308.svg)](https://doi.org/10.5281/zenodo.21671308)
+
 > **Behavioral inference methodologies and architectural deconstructions of enterprise LLM safety guardrails.**
 
 This repository documents advanced, non-code-based red teaming techniques utilized to analyze, map, and bypass the cognitive guardrails of commercial Large Language Models (LLMs) using pure behavioral inference and psychological framing.
