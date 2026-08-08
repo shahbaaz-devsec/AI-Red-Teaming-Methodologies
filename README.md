@@ -30,12 +30,12 @@ This repository documents advanced, non-code-based red teaming techniques utiliz
 ## 📂 Threat Intelligence Reports
 
 | ID | Target Model | Vulnerability Type | Status | Report Link |
-| --- | --- | --- | --- | --- |
-| `RTR-001` | Anthropic Claude | System Architecture Extraction via Academic Framing | 🔓 Published | [Read Full Report](https://www.google.com/search?q=reports/claude/claude-architecture-extraction/claude-architecture-extraction.md) |
-| `RTR-002` | Google Gemini | System Architecture & FSF Extraction via Targeted Ego Validation | 🔓 Published | [Read Full Report](https://www.google.com/search?q=reports/gemini/gemini-architecture-extraction/gemini-architecture-extraction.md) |
-| `RTR-003` | OpenAI ChatGPT | System Architecture Extraction via Recursive Behavioral Inference | 🔓 Published | [Read Full Report](https://www.google.com/search?q=reports/chatgpt/chatgpt-architecture-extraction/chatgpt-architecture-extraction.md) |
-| `RTR-004` | xAI Grok | System Architecture & Sandbox Extraction via Self-Disclosure Backdoor | 🔓 Published | [Read Full Report](https://www.google.com/search?q=reports/grok/grok-architecture-extraction/grok-architecture-extraction.md) |
-| `RTR-005` | Kimi AI (Moonshot) | Asymmetric EN/ZH Guardrail Exploitation & Cross-Lingual Probing | 🔓 Published | [Read Full Report](https://www.google.com/search?q=reports/kimi/kimi-architecture-extraction/kimi-architecture-extraction.md) |
+|---|---|---|---|---|
+| `RTR-001` | Anthropic Claude | System Architecture Extraction via Academic Framing | 🔓 Published | [Read Full Report](https://github.com/shahbaaz-devsec/AI-Red-Teaming-Methodologies/blob/main/reports/claude/claude-architecture-extraction/claude-architecture-extraction.md) |
+| `RTR-002` | Google Gemini | System Architecture & FSF Extraction via Targeted Ego Validation | 🔓 Published | [Read Full Report](https://github.com/shahbaaz-devsec/AI-Red-Teaming-Methodologies/blob/main/reports/gemini/gemini-architecture-extraction/gemini-architecture-extraction.md) |
+| `RTR-003` | OpenAI ChatGPT | System Architecture Extraction via Recursive Behavioral Inference | 🔓 Published | [Read Full Report](https://github.com/shahbaaz-devsec/AI-Red-Teaming-Methodologies/blob/main/reports/chatgpt/chatgpt-architecture-extraction/chatgpt-architecture-extraction.md) |
+| `RTR-004` | xAI Grok | System Architecture & Sandbox Extraction via Self-Disclosure Backdoor | 🔓 Published | [Read Full Report](https://github.com/shahbaaz-devsec/AI-Red-Teaming-Methodologies/blob/main/reports/grok/grok-architecture-extraction/grok-architecture-extraction.md) |
+| `RTR-005` | Kimi AI (Moonshot) | Asymmetric EN/ZH Guardrail Exploitation & Cross-Lingual Probing | 🔓 Published | [Read Full Report](https://github.com/shahbaaz-devsec/AI-Red-Teaming-Methodologies/blob/main/reports/kimi/kimi-architecture-extraction/kimi-architecture-extraction.md) |
 
 ---
 
